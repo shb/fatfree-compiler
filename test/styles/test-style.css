@@ -1,0 +1,6 @@
+/* This is a comment in a css template file */
+
+.test-style::after { content: " ERROR"; color:red; }
+
+<include href="test-style-1.css"/>
+<include href="test-style-2.css"/>
